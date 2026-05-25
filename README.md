@@ -28,7 +28,7 @@ How to use:
 Example output: 
 _____________________________________________________________________________________________
   Typhus Eye searching...
-
+```
 1: Typhus_Victim_1   | -55 dBm | WPA2 (SAFE)      | Risiko: LOW    | MAC: AB:12:CD:34:EF:56
 2: Typhus_Victim_2   | -63 dBm | OPEN (UNSAFE)     | Risiko: HIGH   | MAC: 11:22:33:44:55:66
 3: Typhus_Victim_1   | -61 dBm | WPA2 (SAFE)       | Risiko: LOW    | MAC: FF:AA:BB:CC:DD:EE
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 Typhus Eye checks for rogue APs...
     Possible Rogue AP detected: Typhus_Victim_1
-
+```
 --- Scan complete ---
 _____________________________________________________________________________________________
 Author: 
