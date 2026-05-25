@@ -84,7 +84,7 @@ void scanNetworks() {
         }
 
         if (!same) {
-          Serial.print("⚠️  Possible Rogue AP detected: ");
+          Serial.print(" Possible Rogue AP detected: ");
           Serial.println(WiFi.SSID(i));
           foundRogue = true;
         }
